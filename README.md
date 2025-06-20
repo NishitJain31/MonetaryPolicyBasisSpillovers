@@ -1,5 +1,3 @@
-# monetaryPolicyBasisSpillovers
-
 ## Monetary Policy Spillovers on Cross Currency Basis Swaps
 
 ### Overview
